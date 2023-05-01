@@ -7,6 +7,6 @@ These are the lecture notes and IPython notebooks used to teach the
 Feel free to fork this repository and make any changes you wish.
 Contributions are welcomed.
 
-
+HERE IS MY CHANGE
 
 
